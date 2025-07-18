@@ -1,0 +1,14 @@
+﻿
+.processingOrderItem, .pickUpOrderItem, .completeOrderItem {
+    border: 1px dashed black;
+    width: 75%;
+    padding: 20px;
+}
+
+.orderTrackingBtn {
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 10%;
+    padding: 10px 20px;
+    cursor: pointer;
+}

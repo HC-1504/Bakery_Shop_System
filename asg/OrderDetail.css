@@ -1,0 +1,60 @@
+﻿    /* General Styling */
+
+
+    /* Order Header Styling */
+    h1 {
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    .orderInfoTable {
+        width: 800px;
+    }
+
+    .productInfoTable {
+        width: 1000px;
+    }
+
+    .orderInfoTable, .productInfoTable {
+        margin: 20px 0;
+        border-collapse: collapse;
+    }
+
+        .orderInfoTable th,
+        .orderInfoTable td,
+        .productInfoTable th,
+        .productInfoTable td {
+            padding: 10px 15px;
+            text-align: left;
+            border: 1px solid #e5e5e5;
+        }
+
+        .orderInfoTable th,
+        .productInfoTable th {
+            background-color: #ffb347;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        .productInfoTable td {
+            text-align: center;
+        }
+
+        /* Product Image Styling */
+        .productInfoTable img {
+            border-radius: 10px;
+            object-fit: cover;
+            width: 100px;
+            height: 100px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+        }
+
+    .productInfoTable tr:hover {
+        background-color: #f8f8f8;
+        transition: background-color 0.3s ease;
+    }
+    .orderInfoTable th {
+        font-weight: bold;
+    }

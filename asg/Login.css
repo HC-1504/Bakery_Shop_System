@@ -1,0 +1,60 @@
+﻿
+.left {
+    padding: 120px 80px;
+    background-color: floralwhite;
+    position: relative;    
+}
+
+.forgetBtn {
+    position: absolute;
+    bottom: 60px;
+    left: 100px;
+}
+
+.loginDiv {
+    width: 100%;    
+    display: flex;
+    height: auto;
+}
+
+.loginBtn {
+    background-color: antiquewhite;
+    height: 40px;
+    border: none;
+    border-radius: 10%;
+    width: 130px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.loginBtn:hover {
+    opacity: 0.7;
+}
+
+.loginImg {
+    width: 100%; /* Adjusts width to fit the div */
+    height: 100%; /* Adjusts height to fit the div */
+    object-fit: cover;
+}
+
+.left, .right {
+    width: 50%;
+}
+
+.pwRecBtn {
+    background-color: antiquewhite;
+    height: 40px;
+    border: none;
+    border-radius: 10%;
+    width: 130px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.changePwDiv {
+    width: auto;
+    background-color:floralwhite;
+    padding: 20px;
+    border: 1px dashed black;
+    border-radius: 10px;
+}

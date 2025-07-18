@@ -1,0 +1,155 @@
+﻿.container {
+    width: 70%;
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.product-container {
+    width: 100%;
+}
+
+.product-card {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    width: 350px;
+    height: 450px;
+}
+
+    .product-card img {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+    }
+
+.datalist-table {
+    width: 100%;
+}
+
+.product-image {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.modal-body {
+    overflow-y: auto;
+    max-height: 70vh;
+}
+
+.cart-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    .cart-table th {
+        text-align: left;
+        background-color: mistyrose;
+        color: black;
+        padding: 10px;
+        border: none;
+    }
+
+    .cart-table td {
+        padding: 8px;
+        text-align: left;
+        border: none;
+    }
+
+    .cart-table tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    .cart-table tr:nth-child(odd) {
+        background-color: #ffffff;
+    }
+
+    .cart-table tr:hover {
+        background-color: #d1ecf1;
+        transition: background-color 0.3s ease;
+    }
+
+    .cart-container {
+        text-align: right;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .container-price {
+        margin-right: 15%;
+    }
+
+    .container-update {
+        margin-right: 15%;
+    }
+
+    .container-check {
+        margin-right: 13%;
+    }
+
+    .cart-empty {
+        text-align: center;
+    }
+
+    .summary-table {
+        border-collapse: collapse;
+        width: 100%;
+        background-color: lavenderblush;
+        color: black;
+        text-align: center;
+    }
+
+    .summary-price {
+        text-align: right;
+        margin-right: 2%;
+    }
+
+    .userBtn {
+        background-color: antiquewhite;
+        height: 40px;
+        border: none;
+        border-radius: 10%;
+        width: 100px;
+        margin: 3px;
+        cursor: pointer;
+    }
+
+    .addCartBtn {
+        background-color: antiquewhite;
+        height: 40px;
+        border: none;
+        border-radius: 10%;
+        width: 150px;
+        margin: 3px;
+        cursor: pointer;
+    }
+
+    .processBtn {
+        background-color: antiquewhite;
+        height: 40px;
+        border: none;
+        border-radius: 10%;
+        width: 160px;
+        margin: 3px;
+        cursor: pointer;
+    }
+
+    .shoppingBtn {
+        background-color: antiquewhite;
+        height: 40px;
+        border: none;
+        border-radius: 10%;
+        width: 250px;
+        margin: 3px;
+        cursor: pointer;
+        color:brown;
+    }

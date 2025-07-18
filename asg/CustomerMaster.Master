@@ -1,0 +1,206 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CustomerMaster.Master.cs" Inherits="asg.customerMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">    
+    <title>
+        <asp:ContentPlaceHolder ID="PageTitle" runat="server">Bakery Management System</asp:ContentPlaceHolder>
+    </title>
+    
+    <asp:ContentPlaceHolder ID="CssLink" runat="server"></asp:ContentPlaceHolder>
+
+    
+    <!--datatable-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="Basic.css" rel="stylesheet" /> 
+
+    <style>
+
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        html, body {
+          height: 100%; 
+        }
+
+        body {
+            background-color:seashell;
+            padding-top:60px;
+        }
+
+        .navbar {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            height: 120px;
+            z-index: 1000;
+            background-color: #343a40;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 10px;
+            color: white;
+            font-family: Arial, sans-serif;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Logo on the Left */
+        .navbar .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar img {
+            height: 45px;
+            margin-right: 10px;
+        }
+
+        /* Navigation Links on the Right */
+        .navbar .nav-links {
+            display: flex;
+            gap: 10px;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        /* Hover Effect for Links */
+        .navbar a:hover {
+            background-color: #495057;
+            color: #ffc107;
+        }
+
+        /* Active Link Styling */
+        .navbar a.active {
+            background-color: #ffc107; 
+            color: #343a40; 
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .navbar {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            .nav-links {
+                justify-content: center;
+                width: 100%;
+            }
+
+            .logo {
+                justify-content: center;
+                width: 100%;
+                margin-bottom: 10px;
+            }
+        }
+
+        .footer {
+            background-color: #343a40;
+            text-align: center;
+            padding: 20px;
+            color: white;
+            font-family: Arial, sans-serif;
+            height: auto; 
+        }
+
+        form {
+          height: 100%; 
+        }
+
+        .outerDiv {
+          display: flex;
+          flex-direction: column;
+          height: 100%; 
+        }
+
+        .header {
+
+        }
+
+        .customerContent {
+          flex: 1;
+          padding: 20px;
+          display: flex;
+          flex-direction: column;
+
+        }
+
+        .homeContent {
+            flex: 1;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div class="outerDiv">
+            <div class="header">
+            <!-- Navbar -->
+                <nav class="navbar">
+                    <div class="logo">
+                        <a href="Homepage.aspx"><img src="Images/logo.jpg" alt="Logo" style="width:147px; height:83px; " /></a>
+                    </div>
+
+                    <div class="nav-links">
+                 
+                        <asp:HyperLink ID="hplProduct" runat="server" NavigateUrl="ProductMenu.aspx">Product</asp:HyperLink>
+                        <asp:HyperLink ID="hlpCart" runat="server" NavigateUrl="Cart.aspx">Cart</asp:HyperLink>
+                        <asp:HyperLink ID="hplLogin" runat="server" NavigateUrl="Login.aspx">Login</asp:HyperLink>
+                        <asp:HyperLink ID="hplProfile" runat="server" NavigateUrl="UserProfile.aspx">Profile</asp:HyperLink>
+                        
+                    </div>
+                </nav>
+            </div>
+
+            <br /><br /><br />
+        <asp:SiteMapPath ID="CustomerSiteMapPath" runat="server"></asp:SiteMapPath>
+
+        <!-- Content Placeholder -->
+        <div class="customerContent">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+            <div class="footer">
+                <footer>
+                    <!-- Footer -->
+                    <div>
+                        ABC Bakery  &#8226; 
+                        Email:<a href="mailto:bakeryDD@gmail.com" style="color:wheat">bakeryDD@gmail.com</a> &#8226;
+                        Phone:<a href="tel:07-927 0801" style="color:wheat">07-927 0801</a> 
+                        <br />
+                    
+                        <div class="fot-links">
+                           <a href="https://twitter.com/?lang=en"><img src="footerpic/twitterpic.jpg" alt="Twitter" style="width:35px; height:35px; clip-path: circle(40%);" /></a>
+                            <a href="https://www.facebook.com/"><img src="footerpic/fb.jpg" alt="Facebook" style="width:35px; height:35px; clip-path: circle(40%);"/></a>
+                            <a href="https://www.instagram.com/"><img src="footerpic/ig.jpg" alt="Instagram" style="width:35px; height:35px; clip-path: circle(40%);"/></a>
+                            <br/>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+       </div>
+    </form>
+</body>
+</html>
+

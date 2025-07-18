@@ -1,0 +1,177 @@
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\asg.dll.config
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\asg.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\asg.pdb
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\csc.exe
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\csc.exe.config
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\csc.rsp
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\csi.exe
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\csi.exe.config
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\csi.rsp
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.AppContext.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Console.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Net.Http.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\vbc.exe
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\vbc.exe.config
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\vbc.rsp
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chew Fong Yee\source\repos\asg\asg\obj\Debug\asg.csproj.AssemblyReference.cache
+C:\Users\Chew Fong Yee\source\repos\asg\asg\obj\Debug\asg.csproj.CoreCompileInputs.cache
+C:\Users\Chew Fong Yee\source\repos\asg\asg\obj\Debug\asg.csproj.Up2Date
+C:\Users\Chew Fong Yee\source\repos\asg\asg\obj\Debug\asg.dll
+C:\Users\Chew Fong Yee\source\repos\asg\asg\obj\Debug\asg.pdb
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\asg.dll.config
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\asg.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\asg.pdb
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\csc.exe
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\csc.exe.config
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\csc.rsp
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\csi.exe
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\csi.exe.config
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\csi.rsp
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.AppContext.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Console.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Net.Http.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\vbc.exe
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\vbc.exe.config
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\vbc.rsp
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chew Fong Yee\Desktop\asg\asg\obj\Debug\asg.csproj.AssemblyReference.cache
+C:\Users\Chew Fong Yee\Desktop\asg\asg\obj\Debug\asg.csproj.CoreCompileInputs.cache
+C:\Users\Chew Fong Yee\Desktop\asg\asg\obj\Debug\asg.csproj.Up2Date
+C:\Users\Chew Fong Yee\Desktop\asg\asg\obj\Debug\asg.dll
+C:\Users\Chew Fong Yee\Desktop\asg\asg\obj\Debug\asg.pdb
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\asg.dll.config
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\asg.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\asg.pdb
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\csc.exe
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\csc.exe.config
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\csc.rsp
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\csi.exe
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\csi.exe.config
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\csi.rsp
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.AppContext.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Console.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\vbc.exe
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\vbc.exe.config
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\vbc.rsp
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\OneDrive\Desktop\asg\asg\obj\Debug\asg.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\asg\asg\obj\Debug\asg.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\asg\asg\obj\Debug\asg.csproj.Up2Date
+C:\Users\USER\OneDrive\Desktop\asg\asg\obj\Debug\asg.dll
+C:\Users\USER\OneDrive\Desktop\asg\asg\obj\Debug\asg.pdb
